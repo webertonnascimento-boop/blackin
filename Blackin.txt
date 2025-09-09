@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cargos de Pessoas Pretas</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Agrupamento de Cargos de Pessoas Pretas</h1>
+        </div>
+    </header>
+    
+    <main>
+        <section class="section-dark">
+            <div class="container">
+                <h2>Distribuição por Cargo</h2>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Cargo</th>
+                            <th>Quantidade</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>COORDENADOR</td>
+                            <td>13</td>
+                        </tr>
+                        <tr>
+                            <td>GERENTE</td>
+                            <td>5</td>
+                        </tr>
+                        <tr>
+                            <td>GERENTE LOJA</td>
+                            <td>29</td>
+                        </tr>
+                        <tr>
+                            <td>GERENTE SR.</td>
+                            <td>1</td>
+                        </tr>
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <td><strong>Total Geral</strong></td>
+                            <td><strong>48</strong></td>
+                        </tr>
+                    </tfoot>
+                </table>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+</body>
+</html>
